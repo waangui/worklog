@@ -25,4 +25,32 @@
 - My computer is still intact despite poking around in the terminal
 
 
+# JUNE 2025
+
+📖 Work Summary
+- Practiced using VS Code to write in HTML, CSS & JavaScript
+- Used HTML to create forms and validate their inputs
+- Learned how to turn a Figma design into a webpage using CSS and HTML
+- Created 2 website homepages with navigation bars, animations, images, and differently styled sections.
+- Used JavaScript to query form inputs.
+
+
+🏆 Achievements 
+-  Completed Codedex HTML course
+-  Handed in all ALX assignments ahead of schedule
+-  Debugged my ALX code to meet task requirements
+-  Have a better understanding of the ALX checker and can now use it's error messages  to correct my code
+
+❌ Lessons from Mistakes and Challenges
+- I need to break down my work hours during the week. I cannot handle all the coursework on the weekend
+- Check your spelling! The smallest errors will make you comb through your code to find the bug
+- Label sections in code. This makes it easier to go through, debug, and hand over to other developers
+- I need to play around with CSS to get more comfortable with it
+- I need to practice importing fonts
+
+🌟 Monthly Highlights
+- I have gained confidence in my debugging skills.
+- Completed 2 months of ALX front end! (And even improved my average score)
+- Learned 2 new coding languages - HTML & CSS!
+  
 
